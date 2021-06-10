@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "App_Login_fb_10_6"
